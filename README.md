@@ -228,7 +228,7 @@ Customer-Shopping-Behavior-Analysis
 ### 1. Clone Repository
 
 ```bash
-git clone [https://github.com/YourUsername/Customer-Shopping-Behavior-Analysis.git](https://github.com/Samee512/Customer_Behavior_Analysis-.git)
+git clone [(https://github.com/Samee512/Customer_Behavior_Analysis-.git)]
 ```
 
 ### 2. Install Required Libraries
